@@ -5,3 +5,18 @@
 body {
     background-image: url("https://sfwallpaper.com/images/backgrounds-white-7.jpg") ;
 }
+
+.container {
+    background-color: white;
+    margin: 4vw;
+    width: 75%;
+}
+
+h1 {
+    padding: 1vw;
+    color: teal;
+}
+
+form {
+    padding: 1vw;
+}
