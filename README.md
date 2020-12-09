@@ -13,5 +13,5 @@ Through this process, I learned that positioning and layouts are SO much easier 
 The area where I think my assignment stands out most is in its mobile responsiveness. I was so proud when I loaded it on my iPhone and saw how smoothly the content transitioned from the the big screen of my monitor to the small screen of my phone. Even nowadays, it's so common to see professional websites struggle with being mobile responsive, so I definitely gained a sense of pride knowing that I'm on my way to understanding how to fix that problem. 
 
 ## Links
-Link to portfolio: 
-Link to GitHub repository: 
+Link to portfolio: https://andrew1835.github.io/Responsive_Portfolio_1/
+Link to GitHub repository: https://github.com/andrew1835/Responsive_Portfolio_1
