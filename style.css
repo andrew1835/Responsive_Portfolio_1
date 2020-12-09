@@ -9,7 +9,7 @@ body {
 .container {
     background-color: white;
     margin: 4vw;
-    /* width: 75%; */
+    width: 90vw;
 }
 
 h1 {
@@ -18,5 +18,16 @@ h1 {
 }
 
 form {
+    padding: 1vw;
+}
+
+.containerPortfolio {
+    background-color: white;
+    margin: 4vw;
+    width: max-content;
+    padding: 1vw
+}
+
+.row {
     padding: 1vw;
 }
